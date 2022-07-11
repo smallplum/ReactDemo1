@@ -16,6 +16,7 @@ export default class App extends React.Component  {
       <div className = 'ArticleContainer'>
         父组件：
         <Child/>
+        第一次更改提交
       </div>
     )
   }

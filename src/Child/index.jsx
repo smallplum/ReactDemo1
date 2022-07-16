@@ -23,7 +23,9 @@ class Child extends Component {
     render() {
         return (
             <div onClick={this.onChildClick}>
-                子组件接受的消息内容：{this.state.publishData}
+                子组件接受的消息内容：{this.state.publishData}<br/>
+                7.16周六测试在顶级项目引用子项目，目录在src/commons
+
             </div>
         );
     }

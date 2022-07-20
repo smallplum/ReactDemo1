@@ -26,6 +26,8 @@ class Child extends Component {
                 子组件接受的消息内容：{this.state.publishData}<br/>
                 7.16周六测试在顶级项目引用子项目，目录在src/commons
 7.20______测试修改子模块代码
+
+7.20————发布tag2版本
             </div>
         );
     }
